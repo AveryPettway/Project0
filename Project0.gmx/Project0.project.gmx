@@ -11,6 +11,9 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scr_find_depth.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_plyr</object>
     <object>objects\obj_wall</object>
