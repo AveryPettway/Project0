@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_plyr</sprite>
     <sprite>sprites\spr_wall</sprite>
+    <sprite>sprites\alien</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -17,12 +18,13 @@
   <objects name="objects">
     <object>objects\obj_plyr</object>
     <object>objects\obj_wall</object>
+    <object>objects\alien_obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41890.9569539352</constant>
+    <constant name="GM_build_date">41891.1235294213</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
