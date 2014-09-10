@@ -11,6 +11,7 @@
     <sprite>sprites\alien</sprite>
     <sprite>sprites\spr_tree</sprite>
     <sprite>sprites\weeds</sprite>
+    <sprite>sprites\street</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -23,12 +24,13 @@
     <object>objects\alien_obj</object>
     <object>objects\obj_tree</object>
     <object>objects\object4</object>
+    <object>objects\obj_street</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41891.9116282292</constant>
+    <constant name="GM_build_date">41892.146649919</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
