@@ -13,6 +13,7 @@
     <sprite>sprites\weeds</sprite>
     <sprite>sprites\street</sprite>
     <sprite>sprites\tree</sprite>
+    <sprite>sprites\sprite7</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -27,12 +28,13 @@
     <object>objects\object4</object>
     <object>objects\obj_street</object>
     <object>objects\object6</object>
+    <object>objects\object7</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41892.2055128472</constant>
+    <constant name="GM_build_date">41892.2190402546</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
