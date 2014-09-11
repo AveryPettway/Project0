@@ -16,6 +16,7 @@
     <sprite>sprites\sprite7</sprite>
     <sprite>sprites\sprite8</sprite>
     <sprite>sprites\spr_grenade</sprite>
+    <sprite>sprites\spr_inventory_box</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\land</background>
@@ -33,6 +34,7 @@
     <object>objects\obj_street</object>
     <object>objects\object6</object>
     <object>objects\object7</object>
+    <object>objects\obj_game__controller</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
