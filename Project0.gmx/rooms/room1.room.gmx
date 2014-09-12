@@ -148,7 +148,15 @@
     <instance objName="object7" x="96" y="168" name="inst_DBB3286D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object7" x="32" y="144" name="inst_45801858" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object7" x="96" y="96" name="inst_31EAE378" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_game__controller" x="128" y="72" name="inst_0C19681C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_game_controller" x="128" y="72" name="inst_0C19681C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_inventory_box" x="32" y="24" name="inst_4922894D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_inventory_box" x="64" y="24" name="inst_FCA61CC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_inventory_box" x="96" y="24" name="inst_7212ED1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_inventory_box" x="128" y="24" name="inst_4D7D2B53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_item_parent" x="288" y="264" name="inst_7BB6EC40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_item_parent" x="160" y="168" name="inst_8F3B51F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_item_parent" x="192" y="48" name="inst_21F79F00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_item_parent" x="352" y="72" name="inst_AE25E72D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="land" x="320" y="672" w="32" h="24" xo="165" yo="50" id="10000055" name="inst_70D70A9F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

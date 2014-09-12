@@ -24,6 +24,7 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_find_depth.gml</script>
+    <script>scripts\scr_draw_shadow.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_plyr</object>
@@ -34,13 +35,15 @@
     <object>objects\obj_street</object>
     <object>objects\object6</object>
     <object>objects\object7</object>
-    <object>objects\obj_game__controller</object>
+    <object>objects\obj_game_controller</object>
+    <object>objects\obj_inventory_box</object>
+    <object>objects\obj_item_parent</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41893.2365071296</constant>
+    <constant name="GM_build_date">41894.079723588</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
